@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lab 1: Digimon"
-subtitle: October 24th, 2024
+subtitle: October 25th, 2024
 tags: [Lab]
 comments: true
 mathjax: true
