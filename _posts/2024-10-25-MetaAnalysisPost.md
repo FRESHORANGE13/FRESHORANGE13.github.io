@@ -15,12 +15,12 @@ The main goal of this paper is to show causality between high salt intake and de
 
 ## What datasets does this study reference or use? Are these datasets available to the public?
 
-This study used data obtained  from GWAS, which stands for Genome-wide association studies (GWAS). These types of studies look at small genetic variations between people within a huge pool of people in order to associate specific changes in nucleotides within genes to specific traits. These small variations in nucleotides are referred to as single nucleotide polymorphisms (SNPs). 
+This study used data obtained  from GWAS, which stands for Genome-wide association studies (GWAS). These types of studies look at small genetic variations within a huge pool of people in order to associate specific changes in nucleotides within genes to specific traits. These small variations in nucleotides are referred to as single nucleotide polymorphisms (SNPs). 
 
 The data on the genetic variation of added salt to food was taken from the UK Biobank. The dataset identifier was “ukb-b-8-12”. You can access the UK Biobank through [this link](https://www.ukbiobank.ac.uk/.) 
-But, after that, when I clicked on "participant login" I got this page:
+but, after that, when I clicked on "participant login" I got this page:
 ![BioBankLoginScreenshot](/assets/img/BioBankScreenShot.png) 
-Without an ID, you cant really go much further so I wasn't able to access this data : Pensive Face:
+Without an ID, you cant really go much further so I wasn't able to access this data :disappointed:
 
 
 
