@@ -20,7 +20,7 @@ This study used data obtained  from GWAS, which stands for Genome-wide associati
 The data on the genetic variation of added salt to food was taken from the UK Biobank. The dataset identifier was “ukb-b-8-12”. You can access the UK Biobank through [this link](https://www.ukbiobank.ac.uk/.) 
 but, after that, when I clicked on "participant login" I got this page:
 ![BioBankLoginScreenshot](/assets/img/BioBankScreenShot.png) 
-Without an ID, you cant really go much further so I wasn't able to access this data :disappointed:
+Without an ID, you cant really go much further so I wasn't able to access this data 😔
 
 
 
