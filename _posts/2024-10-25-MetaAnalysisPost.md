@@ -14,7 +14,7 @@ The title of the research paper is "Association between adding salt in food and 
 The main goal of this paper was to show causality between high salt intake and dementia. Prior research had already been done that suggested a correlation between these two variables, so this paper wanted to build upon that prior research to show there is in fact a causal relationship between the two variables. The study tested various different types of dementia: Alzheimer's disease, undefined dementia, etc. It also tested the relationship between high salt intake and general cognitive performance/decline. In this paper, the null hypothesis was that salt intake is not causally related with increased risk for dementia. The alternative hypothesis was that salt intake is causally related to increased risk for dementia. 
 
 ## Why are they interested in the data they used?
-They based their study on a type of study design known as Mendelian Randomization (MR). MR is used to estimate the causal effects of certain risk factors for diseases using known genetic variants (also known as SNPs, in this study) as instrumental variables (IVs). The data this study used provided the different SNPs that are associated with salt intake as well as those associated with different dementias, in order to 
+They based their study on a type of study design known as Mendelian Randomization (MR). MR is used to estimate the causal effects of certain risk factors for diseases using known genetic variants (also known as SNPs, in this study) as instrumental variables (IVs). In the authors' own words, "MR leverages naturally occurring genetic variations associated with modifiable risk factors to provide insights in topotential causal links while minimizing the confounding and reversecausation issues that commonly affect observational studies." In my understanding, the data this study used provided the different SNPs and exposure factors that are associated with salt intake as well as those associated with different dementias. Then, they used various statistical analysis methods (IVW methods, MR-Egger, MR-PRESSO,and WM analysis) to try and determine whether the relationships between the IVs and the risk factors were causal and how strong those relationships were. 
 
 ## What datasets does this study reference or use? Are these datasets available to the public?
 
@@ -74,6 +74,8 @@ The study then also included GWAS data on AD and PD from the European Population
 
 There were a few other datasets the study used to supplement their data or add more information on certain SNPs, more information on certain types of dementias, etc., but as the list of datasets goes on, they contribute less and less to the main point of this study. Even if I would be able to access those datasets, at this point there have already been so many that I haven't been able to access that I don't think it would impact the overall transparency of this paper. 
 
+* Since I couldn't actually access the data used, I don't know who actually collected the data in any of the datasets
+
 In conclusion, while this paper, at a glance, seemed to be extremely transparent and forward about which datasets they used and how to access them, in reality, it wasn't actually that straightforward. I could not access a single dataset that I tried to find. Some of them I couldn't access because I didn't have an ID, or I didn't have a subscription to a service, so maybe it would have been possible to access those if I was extremely invested in finding them and had the means to invest money or apply for an ID. For others though, the data just simply wasn't available online (at least to the extent that I looked for it, which I think is a lot more than the general public would do). This shows how difficult it would be to replicate this study with the same data they used, which definetly harms its reliability rating. 
 
 ## Finding their funding:
@@ -88,7 +90,42 @@ A lot of this study was replicating certain aspects of different studies, meanin
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -101,7 +138,7 @@ A lot of this study was replicating certain aspects of different studies, meanin
 
 
  ....
- I think the fact that this study was transparent about their work and tried to disclose all the information that they could (whether or not that information actually gave the public anyway to replicate their research or not), was quite admirable. For example, me personally, if Chat GPT ever assists my writing, I probably would hide the fact that Chat GPT assisted me, instead of openly disclose it right in the begginig of the works cited section like the authors of this paper did. I also think that the topic of the paper was interesting for me. However, sometimes, it became very difficult to follow their expiramental design. I was not priorly familiar with MR study designs but they wrote their paper as if the person reading it was pretty comfortable with it. Even now, I'm honestly still not fully sure what all their data does and whether I interpreted it right. If I were gading their paper, I would definetly tell them to work a bit on their communication. Also, there were a few grammar typos, so I'm not really sure how those got through the peer reviewing that needed to be completed in order for them to have pblished their paper. Then of course, the fact that I could not access a single one of their databases that I tried to access definetly lowers their score a bit. 
+ I think the fact that this study was transparent about their work and tried to disclose all the information that they could (whether or not that information actually gave the public anyway to replicate their research or not), was quite admirable. For example, me personally, if Chat GPT ever assists my writing, I probably would hide the fact that Chat GPT assisted me, instead of disclosing it right at the begginig of the works cited section like the authors of this paper did. I also think that the topic of the paper was interesting for me, which helped me stay engaged and made me enjoy reading the parts of the paper I could almost understand. However, it, very often, became very difficult to follow their expiramental design. I was not priorly familiar with MR study designs, but they wrote their paper as if the person reading it was pretty comfortable with it. Even now, I'm honestly still not fully sure what all their data was used for and whether I interpreted it right. If I were gading their paper, I would definetly tell them to work a bit on their communication. Also, there were a few grammar typos, so I'm not really sure how those got through the peer reviewing that needed to be completed in order for them to have published their paper. Then of course, the fact that I could not access a single one of their databases that I tried to access definetly lowers their score a bit. 
  
  Anyways, this is the end of my Meta Analysis Lab Post. Hope you've been having a nice weekend and hope this wasn't too much of a hassle to read (sorry I made it this long). See you Monday 😊!!
 
