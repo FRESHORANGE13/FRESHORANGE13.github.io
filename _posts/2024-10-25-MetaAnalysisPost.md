@@ -11,10 +11,15 @@ author: "Alisa Buitenhuis"
 ## Background Information: 
 The title of the research paper is "Association between adding salt in food and dementia in European descent: A Mendelian randomization study". You can read the article [here](https://research-ebsco-com.horacemann.idm.oclc.org/c/qideok/viewer/pdf/od3wz6rtdj) - as long as you are on your Horace Mann Account I think. It's main authors and contributors were Ren Zhou and Hong Jiang. 
 
-The main goal of this paper was to show causality between high salt intake and dementia. Prior research had already been done that suggested a correlation between these two variables, so this paper wanted to build upon that prior research to show there is in fact a causal relationship between the two variables. The study tested various different types of dementia: Alzheimer's disease, undefined dementia, etc. It also tested the relationship between high salt intake and general cognitive performance/decline. In this paper, the null hypothesis was that salt intake is not causally related with increased risk for dementia. The alternative hypothesis was that salt intake is causally related to increased risk for dementia. 
+The main goal of this paper was to show causality between high salt intake and increased risk of dementia. Prior research had already been done that suggested a correlation between these two variables, so this paper wanted to build upon that prior research to show there is in fact a causal relationship between the two variables. The study tested various different types of dementia: Alzheimer's disease, undefined dementia, etc. It also tested the relationship between high salt intake and general cognitive performance/decline. In this paper, the null hypothesis was that salt intake is not causally related with increased risk for dementia. The alternative hypothesis was that salt intake is causally related to increased risk for dementia. 
 
-## Why are they interested in the data they used?
+## Why are they interested in the data they used + how did they use it?
 They based their study on a type of study design known as Mendelian Randomization (MR). MR is used to estimate the causal effects of certain risk factors for diseases using known genetic variants (also known as SNPs, in this study) as instrumental variables (IVs). In the authors' own words, "MR leverages naturally occurring genetic variations associated with modifiable risk factors to provide insights in topotential causal links while minimizing the confounding and reversecausation issues that commonly affect observational studies." In my understanding, the data this study used provided the different SNPs and exposure factors that are associated with salt intake as well as those associated with different dementias. Then, they used various statistical analysis methods (IVW methods, MR-Egger, MR-PRESSO,and WM analysis) to try and determine whether the relationships between the IVs and the risk factors were causal and how strong those relationships were. 
+
+In order to assess causality in a rigorous way, they elimated all SNPs of genes that were associated with multiple traits. They also deleted all SNPs that could contribute to confounding factors. Then, after all that, they calculated the F-statistic (described on page 4 of their paper) in order to insure the IVs were strongly corrolated with the exposure factors that they wanted to assess the impact of. 
+
+Here is a photo of the part of their paper that describes this, because it is a bit more clear in their words: 
+![photo of IVs section](/assets/img/IVs.png)
 
 ## What datasets does this study reference or use? Are these datasets available to the public?
 
@@ -74,7 +79,7 @@ The study then also included GWAS data on AD and PD from the European Population
 
 There were a few other datasets the study used to supplement their data or add more information on certain SNPs, more information on certain types of dementias, etc., but as the list of datasets goes on, they contribute less and less to the main point of this study. Even if I would be able to access those datasets, at this point there have already been so many that I haven't been able to access that I don't think it would impact the overall transparency of this paper. 
 
-* Since I couldn't actually access the data used, I don't know who actually collected the data in any of the datasets
+(Since I couldn't actually access the data used, I don't know who actually collected the data in any of the datasets)
 
 In conclusion, while this paper, at a glance, seemed to be extremely transparent and forward about which datasets they used and how to access them, in reality, it wasn't actually that straightforward. I could not access a single dataset that I tried to find. Some of them I couldn't access because I didn't have an ID, or I didn't have a subscription to a service, so maybe it would have been possible to access those if I was extremely invested in finding them and had the means to invest money or apply for an ID. For others though, the data just simply wasn't available online (at least to the extent that I looked for it, which I think is a lot more than the general public would do). This shows how difficult it would be to replicate this study with the same data they used, which definetly harms its reliability rating. 
 
