@@ -19,10 +19,40 @@ This study used data obtained  from GWAS, which stands for Genome-wide associati
 
 The data on the genetic variation of added salt to food was taken from the UK Biobank. The dataset identifier was “ukb-b-8-12”. You can access the UK Biobank through [this link](https://www.ukbiobank.ac.uk/.) 
 but, after that, when I clicked on "participant login" I got this page:
+
 ![BioBankLoginScreenshot](/assets/img/BioBankScreenShot.png) 
-Without an ID, you cant really go much further so I wasn't able to access this data 😔
+
+Without an ID, you cant really go much further so I wasn't able to access this data 😔. However, if a researcher wanted to replicate this study and access this data, they could probably find a way to register and get and ID to access the UK bio bank. 
 
 
+To access the GWAS data for dementia, the authors of the study went through the IEUOpenGWASdatabase. To access the GWAS data for dementia, the authors of the study went through the [IEUOpenGWASdatabase](https://gwas.mrcieu.ac.uk/). The ID they used to search for the dementia data is “finn-b-F5_DEMENTIA”. After searching for this ID in the database, I got to [this page](https://gwas.mrcieu.ac.uk/datasets/finn-b-F5_DEMENTIA/), which showed this: 
+
+![SCREENSHOT OF DEMENTIA DATA](/assets/img/DEMENTIADATA.png)
+
+
+As you can see, there aren’t any download buttons. To try and download the data, I looked through the about page which said to run the command “wget https://gwas.mrcieu.ac.uk/files/ukb-b-19953/ukb-b-19953.vcf.gz”. This uses "ukb-b-19953" as an example dataset ID. Before even running the terminal command, I looked for the dataset that corresponded to the ukb-b-19953 ID on the website and found this: 
+
+![BMI dataset photo](/assets/img/BMIDatasetScreenShot.png)
+
+Here there is a download button! So its a little werid that there isn't one for the dataset used in the study...🤨🤨 Anyways, I still wanted to try the terminal command. I replaced the example ID with finn-b-F5_DEMENTIA” and for macs, the equivalent to the "wget" command is “curl”, so I ran "curl https://gwas.mrcieu.ac.uk/files/ukb-b-19953/ukb-b-19953.vcf.gz". 
+
+When I ran the terminal command with the example datatset from the about page, I got a downloadable file: 
+
+![terminal command example](/assets/img/exampleTerminalFile.png)
+
+On the other hand, when I tried to run the terminal command with the ID of the dataset used in this study, I got this instead:
+
+![terminal command no download](/assets/img/NoDownload.png)
+
+To sum this up, I was not able to access the data from the IEUOpenGWASdatabase 😔😔. 
+
+
+To access GWAS data for general cognitive performance, they went through Lee’s study. The dataset identifier was “ebi-a-GC5T006572”. It wasn’t clear to me what “Lee’s Study” referred, and when I searched it up nothing came up, so I wasn’t able to find or access this dataset either 😔😔😔. 
+
+The GWAS summary data on different types of dementia was obtained from the Finngen database. For VaD, the dataset identifier is “finn-b-F5 VASCDEM, for AD the dataset identifier was “finn-b-F5-ALZHDEMENT” and for unified dementia, the dataset identifier was “finn-b-F5_Dementia_U”. To try and access this data, I searched up Finngen database which brought me to this page: https://www.finngen.fi/en/access_results. From there, I filled out the form, once using my personal database and one with my horace mann email address. Both times, after I followed the instructions sent to my email (INSERT PHOTO), I was denied access to google cloud. I googled what google cloud was and I’m pretty sure you need a google workspace subscription to be able to use google cloud. Also, this may be because of some Horace Mann wifi regulation, everytime I opened a page with google cloud in the url I got this page: (INSERT PHOTO). 
+
+
+The study then also included GWAS data on AD and PD from the European Population with identifier “finn-b-G6_ALZHEIMER” and identifier “finn-b-G6_PARKINSON” (respectively). 
 
 
 
