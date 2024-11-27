@@ -28,7 +28,7 @@ These are the different ways that I've tried writing my results into the csv fil
 ![image](/assets/img/Screenshot%202024-11-27%20at%2012.36.53%20AM.png)
 
 This last version was after I realized that the stuff in my csv file was a list with a dictionary in the 0th index and a list in the 1st index. Within the list in the first index, the value corresponding to the key 'value' seems to be the correct value that I want in that slot of the csv file. I tried accessing (which is what is shown in that screenshot) it but I got this error: 
-![image](/assets/img/Screenshot%202024-11-27%20at%2012.38.44%20AM.png)
+![image](/assets/img/Screenshot%202024-11-27%20at%2012.40.09%20AM.png)
 I checked it a million times and I even consulted my friend Aanya and chat GPT but I couldn't find the issue that would cause an indexing error. If you can find it, please let me know! 
 
 At this point, I unfortunatly gave up. I'm pretty sure my list of CountryYear objects should be correct, given the logic behind my code, I just can't output the actual value of the countryyear objects into their corresponding rows in the csv file. 
