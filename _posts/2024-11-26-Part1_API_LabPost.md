@@ -18,12 +18,13 @@ Initially, I got xml objects in my csv file so I knew I wasn't parsing it correc
 ![image](/assets/img/Screenshot%202024-11-27%20at%2012.26.40%20AM.png)
 
 These are the different ways that I've tried writing my results into the csv file and here are some of them (all of this is after I already wrote the header into the file and all of that): 
+1.
 ![image](/assets/img/Screenshot%202024-11-27%20at%2012.35.24%20AM.png)
 
-
+2. 
 ![image](/assets/img/Screenshot%202024-11-27%20at%2012.36.03%20AM.png)
 
-
+3. 
 ![image](/assets/img/Screenshot%202024-11-27%20at%2012.36.53%20AM.png)
 
 This last version was after I realized that the stuff in my csv file was a list with a dictionary in the 0th index and a list in the 1st index. Within the list in the first index, the value corresponding to the key 'value' seems to be the correct value that I want in that slot of the csv file. I tried accessing (which is what is shown in that screenshot) it but I got this error: 
