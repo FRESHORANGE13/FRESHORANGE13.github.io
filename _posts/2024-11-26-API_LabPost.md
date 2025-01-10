@@ -67,4 +67,3 @@ that data was gathered for the indicators hat I chose. When querying Ms. Feng's 
 
 
 Thats it, thank you for reading my blog post!
-- Alisa 
