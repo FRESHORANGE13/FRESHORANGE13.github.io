@@ -47,23 +47,26 @@ My initial planning notes on the data and my sculpture:
 ![image](/assets/img/IMG_5354.JPG)
 # Data: 
 
-Legend: 
-Green = foot
-Blue = hip
-Pink = lower back
-Orange = knee
-Yellow = spine and ribs
-Purple = shoulders
-Teal = thigh 
-Red = arms (wrists + elbows) 
+Legend:
+| Color | Region |
+| -------- | ------- |
+| green  | foot |
+| blue  | hip |
+| pink | lower back |
+| orange | knee| 
+| yellow | spine and ribs| 
+| purple| shoulders| 
+| teal | upper leg and thigh| 
+| red | arms (wrists + elbows)| 
 
 ![image](/assets/img/img1.png)
 ![image](/assets/img/image2.png)
 ![image](/assets/img/image3.png)
 
-Observations from the Data:
-
-
+Ranking of most popular regions for injury:
+1. foot
+2. back
+3. 
 # Final Sculpture: 
 *INSERT PHOTO
 
