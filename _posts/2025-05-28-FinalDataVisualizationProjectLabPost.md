@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Final Project Lab Post!"
 subtitle: May 28th, 2025
