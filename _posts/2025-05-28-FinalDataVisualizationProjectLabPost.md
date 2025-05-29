@@ -8,7 +8,7 @@ mathjax: true
 author: "Alisa Buitenhuis"
 ---
 
-#Background Story:
+# Background Story:
 In my experience, I haven't gone a single year as a dancer past the age of 10 without experiencing at least one minor injury. My injury history has ranged from recurring tendonitis, to impingements and even a stress fracture. Many dancers (roughly my age) around me have experienced an even more intense injury history. In my own experience, I have witnessed so many friends hide their injuries, from themselves, by trying to deny it, and to others, by suppressing their concerns. Even though I’ve been warned not to, I myself have also hid emerging pains from others, leading to exacerbation of the injury and culminating in the aforementioned stress fracture. Within dance, there is a pressure to present an image of ease, constant discipline and hard work. Under some training schools, there is a negative stigma around taking time off for your body to recover from the constant physical stress of ballet. Even without a stigma, the pressure to constantly perform well, either to get a role, to impress a director or to just to maintain and improve physical fitness often comes at the cost of allowing full recovery for the body. 
 
 Once you go to a doctor, their response is always the same: 
@@ -23,12 +23,12 @@ uncommon injury that no one ever hears much about. Even in the ballet community,
  the ballet community, since now they can be tied to a specific name. For those that don’t have a Dr. Samara around to help them, they will still be able to identify whether they might have an FHL impingement and know exercises for it. 
 This eventual hope was the root of my inspiration for this project that visualizes dancers’ injuries and their prevalence. 
 
-#Impact:
+# Impact:
 My goal with this project is adding data transparency and awareness to a not very well documented issue. Though within the dancer community injury risk is a present concern, there isn’t ever much concrete data attached to discussions about injury. 
 This lack of data was reflected in my difficulty when looking for an actual dataset recording dancer injuries. Having data backed discussions rather than lofty and largely experience based discussions about injury in dance can legitimize the issue and 
 support future research directed at more common and serious injuries in the dance community. 
 
-#Data:
+# Data:
 The search for specific data on this topic was surprisingly difficult. 
 While I encountered many overarching statistics on the percent of dancers that 
 get injured, or dancers struggling with specific injuries, the specific data behind 
@@ -37,7 +37,7 @@ my own experience I know how pervasive injuries are to ballet, and I thought the
 must already be detailed data on the subject. I ended up finding the data that I use from a research paper that tracks dance injuries titled “Dance-related musculoskeletal injury leading to forced time-loss in elite pre professional dancers – a retrospective study”. While not explicitly stated in the study, I found that the school the paper likely examines is the Escola de Dança do Conservatório Nacional (EDCN), a widely recognized, selective 8 year professional ballet training school in Lisbon, Portugal ([link to the school’s website] (https://edcn.pt/pt-pt/)).The data tracks the injuries of 70  dancers (22 males and 48 female) and a total of 110 injuries were recorded. It classifies injuries by location, region and tissue type. It also maps  each dancer to a training level (based on their number of hours dancing). 
 
 
-#Concept: 
+# Concept: 
 *Creating a physical sculpture of a dancer 
 *Limbs will be wrapped with string 
 *String color corresponds with injury location and prevalence of the injury 
@@ -45,7 +45,7 @@ must already be detailed data on the subject. I ended up finding the data that I
 My initial planning notes on the data and my sculpture: 
 
 ![image](/IMG_5354.JPG)
-#Data: 
+# Data: 
 
 Legend: 
 Green = foot
@@ -64,7 +64,7 @@ Red = arms (wrists + elbows)
 Observations from the Data:
 
 
-#Final Sculpture: 
+# Final Sculpture: 
 *INSERT PHOTO
 
 [source of data](https://www.tandfonline.com/doi/full/10.1080/00913847.2022.2129503)
