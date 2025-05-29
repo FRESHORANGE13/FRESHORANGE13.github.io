@@ -48,11 +48,7 @@ My initial planning notes on the data and my sculpture:
 # Data: 
 
 Legend:
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+
 
 | Color | Region |
 | :---------- | :-------------- |
