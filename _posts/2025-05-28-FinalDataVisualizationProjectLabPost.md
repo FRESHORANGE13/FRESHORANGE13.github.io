@@ -48,8 +48,14 @@ My initial planning notes on the data and my sculpture:
 # Data: 
 
 Legend:
-| Color | Region |
+| Month    | Savings |
 | -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
+
+| Color | Region |
+| :---------- | :-------------- |
 | green  | foot |
 | blue  | hip |
 | pink | lower back |
