@@ -44,7 +44,7 @@ must already be detailed data on the subject. I ended up finding the data that I
 
 My initial planning notes on the data and my sculpture: 
 
-![image](/IMG_5354.JPG)
+![image](/assets/img/IMG_5354.JPG)
 # Data: 
 
 Legend: 
@@ -57,9 +57,9 @@ Purple = shoulders
 Teal = thigh 
 Red = arms (wrists + elbows) 
 
-![image] (/img1)
-![image] (/image2)
-![image] (/image3)
+![image] (/assets/img/img1.png)
+![image] (/assets/img/image2)
+![image] (/assets/img/image3)
 
 Observations from the Data:
 
