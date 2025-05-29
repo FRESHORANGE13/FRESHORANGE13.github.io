@@ -69,10 +69,14 @@ Legend:
 ![image](/assets/img/image2.png)
 ![image](/assets/img/image3.png)
 
-Ranking of most popular regions for injury:
+Ranking of most popular regions of injury in the dancer sample:
 1. foot
 2. back
-3. 
+3. hip
+4. knee, spine + ribs and arms (tied)
+5. upper leg and thigh
+6. shoulders
+
 # Final Sculpture: 
 *INSERT PHOTO
 
