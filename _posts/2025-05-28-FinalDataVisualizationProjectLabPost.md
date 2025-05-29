@@ -8,9 +8,6 @@ mathjax: true
 author: "Alisa Buitenhuis"
 ---
 
-[My source of data](https://www.tandfonline.com/doi/full/10.1080/00913847.2022.2129503)
-
-
 #Background Story:
 In my experience, I haven't gone a single year as a dancer past the age of 10 without experiencing at least one minor injury. My injury history has ranged from recurring tendonitis, to impingements and even a stress fracture. Many dancers (roughly my age) around me have experienced an even more intense injury history. In my own experience, I have witnessed so many friends hide their injuries, from themselves, by trying to deny it, and to others, by suppressing their concerns. Even though I’ve been warned not to, I myself have also hid emerging pains from others, leading to exacerbation of the injury and culminating in the aforementioned stress fracture. Within dance, there is a pressure to present an image of ease, constant discipline and hard work. Under some training schools, there is a negative stigma around taking time off for your body to recover from the constant physical stress of ballet. Even without a stigma, the pressure to constantly perform well, either to get a role, to impress a director or to just to maintain and improve physical fitness often comes at the cost of allowing full recovery for the body. 
 
@@ -70,5 +67,4 @@ Observations from the Data:
 #Final Sculpture: 
 *INSERT PHOTO
 
-
-
+[source of data](https://www.tandfonline.com/doi/full/10.1080/00913847.2022.2129503)
