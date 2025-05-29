@@ -74,6 +74,6 @@ Ranking of most popular regions of injury in the dancer sample:
 6. shoulders
 
 # Final Sculpture: 
-*INSERT PHOTO
+![image](/assets/img/finalSculpture.png)
 
 [source of data](https://www.tandfonline.com/doi/full/10.1080/00913847.2022.2129503)
