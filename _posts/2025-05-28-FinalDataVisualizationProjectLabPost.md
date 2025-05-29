@@ -58,8 +58,8 @@ Teal = thigh
 Red = arms (wrists + elbows) 
 
 ![image](/assets/img/img1.png)
-![image](/assets/img/image2)
-![image](/assets/img/image3)
+![image](/assets/img/image2.png)
+![image](/assets/img/image3.png)
 
 Observations from the Data:
 
